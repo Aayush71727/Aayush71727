@@ -9,9 +9,10 @@
 - 🌱 I’m currently learning Machine/Deep Learning 
 - :two_men_holding_hands: I’m looking to collaborate on different projects of Data science, Machine or Deep Learning.
 - 📫 How to reach me: [Get connected](https://www.linkedin.com/in/aayush-tiwari-053a09193)
-- ⚡ Fun fact: Earth is not Flat!
+<!--
+**- ⚡ Fun fact: Earth is not Flat!
 
-![Profile Views](http://hits.dwyl.com/Aayush71727/Aayush71727.svg)](http://hits.dwyl.com/Aayush71727/Aayush71727)
+[![Profile Views](http://hits.dwyl.com/Aayush71727/Aayush71727.svg)](http://hits.dwyl.com/Aayush71727/Aayush71727)
 
 ## Other Places to Connect!
 <a href="https://www.linkedin.com/in/aayush-tiwari-053a09193/" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUVaXSwCsSsQYdbohn5Ulkoa1eRemfhzf82w&usqp=CAU" alt="E Mail" width="80" height="80"></a> <a href="aayushtiwari1727.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRtVFGYd3Pz-jTrvGEGOQFuSooOeIkdravrYg&usqp=CAU" width="80" height="80"></a>
