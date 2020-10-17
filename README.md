@@ -12,7 +12,7 @@
 
 [![Profile Views](http://hits.dwyl.com/Aayush71727/Aayush71727.svg)](http://hits.dwyl.com/Aayush71727/Aayush71727)
 
-## Other Places to Connect!
+## Other Place to Connect!
 <a href="https://www.linkedin.com/in/aayush-tiwari-053a09193/" ><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUVaXSwCsSsQYdbohn5Ulkoa1eRemfhzf82w&usqp=CAU" alt="E Mail" width="80" height="80"></a> 
 
 <img src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" alt="Girl in a jacket" width="500" height="300">
