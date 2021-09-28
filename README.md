@@ -5,9 +5,9 @@
 
 ## About me :point_down: 
 
-- 🔭 I’m currently working on Machine/Deep Learning Projects  
-- 🌱 I’m currently learning Machine/Deep Learning 
-- :two_men_holding_hands: I’m looking to collaborate on different projects of Data science, Machine or Deep Learning.
+- 🔭 I’m currently working as Machine Learning Intern at IIT-Bombay.  
+- 🌱 Learning about Different Object Detection model and Layout Analysis.
+- :two_men_holding_hands: Open to collaborate on different projects of Data science, Machine or Deep Learning.
 - 📫 How to reach me: [Get connected](https://www.linkedin.com/in/aayush-tiwari-053a09193)
 
 [![Profile Views](http://hits.dwyl.com/Aayush71727/Aayush71727.svg)](http://hits.dwyl.com/Aayush71727/Aayush71727)
