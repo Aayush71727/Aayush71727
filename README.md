@@ -1,11 +1,11 @@
 ## Hi there 👋  
 
 ## I'm Aayush Tiwari
-#### I am a 4th Year undergrad pursuing Bachelor of Technology in Computer Science and Engineering. I am always curious and fascinated about Science and Technology and believe that when they both used simultaneously, brings change in the world. I love working on Machine Learning and Deep Learning projects or problems as they give me an opportunity to learn more about different branches of Physics, Medical Science or Mathematics. I also love making Flutter projects.
+#### I am a 4th Year undergrad pursuing Bachelor of Technology in Computer Science and Engineering. I am always curious and fascinated about Science and Technology and believe that when they both used simultaneously, brings change in the world. I love working on Machine Learning and Deep Learning projects or problems as they give me an opportunity to learn more about different branches of Physics, Medical Science or Mathematics.
 
 ## About me :point_down: 
 
-- 🔭 I’m currently working as Machine Learning Intern at IIT-Bombay.  
+- 🔭 I’m currently working as a Software Developer at Lenovo and I have worked as a Machine Learning Intern at IIT-Bombay.  
 - 🌱 Learning about Different Object Detection model and Layout Analysis.
 - :two_men_holding_hands: Open to collaborate on different projects of Data science, Machine or Deep Learning.
 - 📫 How to reach me: [Get connected](https://www.linkedin.com/in/aayush-tiwari-053a09193)
